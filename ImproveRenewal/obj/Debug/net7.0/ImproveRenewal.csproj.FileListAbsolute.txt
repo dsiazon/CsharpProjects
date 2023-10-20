@@ -13,3 +13,17 @@ C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ImproveRen
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.pdb
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.genruntimeconfig.cache
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ref\ImproveRenewal.dll
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.dll
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\refint\ImproveRenewal.dll
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.pdb
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\bin\Debug\net7.0\ImproveRenewal.exe
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\bin\Debug\net7.0\ImproveRenewal.deps.json
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\bin\Debug\net7.0\ImproveRenewal.runtimeconfig.json
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\bin\Debug\net7.0\ImproveRenewal.dll
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\bin\Debug\net7.0\ImproveRenewal.pdb
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ImproveRenewal.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\ImproveRenewal\obj\Debug\net7.0\ref\ImproveRenewal.dll

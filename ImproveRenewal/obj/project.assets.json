@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\ImproveRenewal\\ImproveRenewal.csproj",
+      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\ImproveRenewal\\ImproveRenewal.csproj",
       "projectName": "ImproveRenewal",
-      "projectPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\ImproveRenewal\\ImproveRenewal.csproj",
+      "projectPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\ImproveRenewal\\ImproveRenewal.csproj",
       "packagesPath": "C:\\Users\\dssia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\ImproveRenewal\\obj\\",
+      "outputPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\ImproveRenewal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dssia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
