@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\bin\Debug\net7.0\BooleanBusinessChallenge.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\bin\Debug\net7.0\BooleanBusinessChallenge.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\bin\Debug\net7.0\BooleanBusinessChallenge.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\bin\Debug\net7.0\BooleanBusinessChallenge.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\bin\Debug\net7.0\BooleanBusinessChallenge.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\BooleanBusinessChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\BooleanBusinessChallenge.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\BooleanBusinessChallenge.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\BooleanBusinessChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\BooleanBusinessChallenge.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\refint\BooleanBusinessChallenge.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\BooleanBusinessChallenge.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\BooleanBusinessChallenge.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanBusinessChallenge\obj\Debug\net7.0\ref\BooleanBusinessChallenge.dll

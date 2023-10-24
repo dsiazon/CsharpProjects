@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\CoinFlipChallenge\\CoinFlipChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\CoinFlipChallenge\\CoinFlipChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\CoinFlipChallenge\\CoinFlipChallenge.csproj",
+        "projectName": "CoinFlipChallenge",
+        "projectPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\CoinFlipChallenge\\CoinFlipChallenge.csproj",
         "packagesPath": "C:\\Users\\dssia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\CoinFlipChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dssia\\AppData\\Roaming\\NuGet\\NuGet.Config",

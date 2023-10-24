@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\BooleanExcercises\\BooleanExcercises.csproj",
+      "projectName": "BooleanExcercises",
+      "projectPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\BooleanExcercises\\BooleanExcercises.csproj",
       "packagesPath": "C:\\Users\\dssia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\BooleanExcercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dssia\\AppData\\Roaming\\NuGet\\NuGet.Config",
