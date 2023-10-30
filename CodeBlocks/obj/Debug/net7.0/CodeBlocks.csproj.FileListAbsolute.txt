@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\bin\Debug\net7.0\CodeBlocks.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\bin\Debug\net7.0\CodeBlocks.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\bin\Debug\net7.0\CodeBlocks.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\bin\Debug\net7.0\CodeBlocks.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\bin\Debug\net7.0\CodeBlocks.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\CodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\CodeBlocks.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\CodeBlocks.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\CodeBlocks.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\CodeBlocks.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\refint\CodeBlocks.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\CodeBlocks.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\CodeBlocks.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CodeBlocks\obj\Debug\net7.0\ref\CodeBlocks.dll

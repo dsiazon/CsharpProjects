@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\bin\Debug\net7.0\GPTInheritanceProblem.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\bin\Debug\net7.0\GPTInheritanceProblem.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\bin\Debug\net7.0\GPTInheritanceProblem.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\bin\Debug\net7.0\GPTInheritanceProblem.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\bin\Debug\net7.0\GPTInheritanceProblem.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\GPTInheritanceProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\GPTInheritanceProblem.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\GPTInheritanceProblem.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\GPTInheritanceProblem.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\GPTInheritanceProblem.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\refint\GPTInheritanceProblem.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\GPTInheritanceProblem.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\GPTInheritanceProblem.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\GPTInheritanceProblem\obj\Debug\net7.0\ref\GPTInheritanceProblem.dll
