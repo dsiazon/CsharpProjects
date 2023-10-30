@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BooleanExcercises/1.0.0": {
+        "runtime": {
+          "BooleanExcercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooleanExcercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

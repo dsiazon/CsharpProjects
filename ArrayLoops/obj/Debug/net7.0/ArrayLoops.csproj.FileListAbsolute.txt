@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\bin\Debug\net7.0\ArrayLoops.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\bin\Debug\net7.0\ArrayLoops.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\bin\Debug\net7.0\ArrayLoops.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\bin\Debug\net7.0\ArrayLoops.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\bin\Debug\net7.0\ArrayLoops.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.csproj.AssemblyReference.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\refint\ArrayLoops.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ArrayLoops.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ArrayLoops\obj\Debug\net7.0\ref\ArrayLoops.dll

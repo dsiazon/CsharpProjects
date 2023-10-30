@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\refint\CoinFlipChallenge.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CoinFlipChallenge\obj\Debug\net7.0\ref\CoinFlipChallenge.dll

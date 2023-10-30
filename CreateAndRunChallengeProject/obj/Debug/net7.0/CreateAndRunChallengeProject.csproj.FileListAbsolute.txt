@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\bin\Debug\net7.0\CreateAndRunChallengeProject.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\bin\Debug\net7.0\CreateAndRunChallengeProject.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\bin\Debug\net7.0\CreateAndRunChallengeProject.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\bin\Debug\net7.0\CreateAndRunChallengeProject.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\bin\Debug\net7.0\CreateAndRunChallengeProject.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.csproj.AssemblyReference.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\refint\CreateAndRunChallengeProject.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\CreateAndRunChallengeProject.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\CreateAndRunChallengeProject\obj\Debug\net7.0\ref\CreateAndRunChallengeProject.dll

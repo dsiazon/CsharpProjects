@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\bin\Debug\net7.0\BooleanExcercises.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\bin\Debug\net7.0\BooleanExcercises.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\bin\Debug\net7.0\BooleanExcercises.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\bin\Debug\net7.0\BooleanExcercises.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\bin\Debug\net7.0\BooleanExcercises.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\BooleanExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\BooleanExcercises.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\BooleanExcercises.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\BooleanExcercises.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\BooleanExcercises.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\refint\BooleanExcercises.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\BooleanExcercises.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\BooleanExcercises.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\BooleanExcercises\obj\Debug\net7.0\ref\BooleanExcercises.dll

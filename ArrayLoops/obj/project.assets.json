@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\ArrayLoops\\ArrayLoops.csproj",
+      "projectName": "ArrayLoops",
+      "projectPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\ArrayLoops\\ArrayLoops.csproj",
       "packagesPath": "C:\\Users\\dssia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\ArrayLoops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dssia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,16 +61,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
