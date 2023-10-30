@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\OOPKpop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\OOPKpop.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\OOPKpop.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\OOPKpop.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\bin\Debug\net7.0\OOPKpop.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\bin\Debug\net7.0\OOPKpop.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\bin\Debug\net7.0\OOPKpop.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\bin\Debug\net7.0\OOPKpop.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\bin\Debug\net7.0\OOPKpop.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\OOPKpop.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\refint\OOPKpop.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\OOPKpop.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\OOPKpop.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\OOPKpop\obj\Debug\net7.0\ref\OOPKpop.dll
