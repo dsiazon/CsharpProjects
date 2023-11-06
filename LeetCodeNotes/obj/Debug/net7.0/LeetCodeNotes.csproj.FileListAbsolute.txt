@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\bin\Debug\net7.0\LeetCodeNotes.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\bin\Debug\net7.0\LeetCodeNotes.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\bin\Debug\net7.0\LeetCodeNotes.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\bin\Debug\net7.0\LeetCodeNotes.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\bin\Debug\net7.0\LeetCodeNotes.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\LeetCodeNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\LeetCodeNotes.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\LeetCodeNotes.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\LeetCodeNotes.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\LeetCodeNotes.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\refint\LeetCodeNotes.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\LeetCodeNotes.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\LeetCodeNotes.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LeetCodeNotes\obj\Debug\net7.0\ref\LeetCodeNotes.dll
