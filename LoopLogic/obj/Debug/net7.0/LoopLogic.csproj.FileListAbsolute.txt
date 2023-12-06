@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\bin\Debug\net7.0\LoopLogic.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\bin\Debug\net7.0\LoopLogic.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\bin\Debug\net7.0\LoopLogic.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\bin\Debug\net7.0\LoopLogic.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\bin\Debug\net7.0\LoopLogic.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\LoopLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\LoopLogic.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\LoopLogic.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\LoopLogic.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\LoopLogic.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\refint\LoopLogic.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\LoopLogic.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\LoopLogic.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\LoopLogic\obj\Debug\net7.0\ref\LoopLogic.dll

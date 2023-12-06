@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RvjM5thBdbKoFFmx/x7JeohNPWb5zVHdH1o/ehBWlTQyen1DYqjzeu421Mf2XcLIKGEwpQbi3NHQpPJUmePNUw==",
+  "dgSpecHash": "3winHSelEdkPF//r3cUeh0j0RPFz/GVl/cflMQYOAf5C876irS1lKMLSMYVSRfntMKQkqxH3EeVIWNG4j/yGeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

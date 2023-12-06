@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\bin\Debug\net7.0\ForStatement.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\bin\Debug\net7.0\ForStatement.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\bin\Debug\net7.0\ForStatement.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\bin\Debug\net7.0\ForStatement.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\bin\Debug\net7.0\ForStatement.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ForStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ForStatement.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ForStatement.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ForStatement.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ForStatement.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\refint\ForStatement.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ForStatement.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ForStatement.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ForStatement\obj\Debug\net7.0\ref\ForStatement.dll
