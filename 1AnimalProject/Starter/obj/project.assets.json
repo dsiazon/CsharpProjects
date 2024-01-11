@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\AnimalProject\\Starter\\Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\AnimalProject\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\dssia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\AnimalProject\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dssia\\AppData\\Roaming\\NuGet\\NuGet.Config",
