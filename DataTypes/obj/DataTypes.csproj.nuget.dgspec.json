@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\DataTypes\\DataTypes.csproj": {}
+    "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\DataTypes\\DataTypes.csproj": {
+    "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\DataTypes\\DataTypes.csproj",
+        "projectUniqueName": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\DataTypes\\DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\DataTypes\\DataTypes.csproj",
+        "projectPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\dssia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dssia\\Desktop\\Work\\AZ104\\VSC\\CsharpProjects\\DataTypes\\obj\\",
+        "outputPath": "C:\\Users\\dssia\\Desktop\\Danielle\\Courses\\VSC\\C#Projects\\CsharpProjects\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dssia\\AppData\\Roaming\\NuGet\\NuGet.Config",

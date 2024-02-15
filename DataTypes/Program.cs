@@ -67,10 +67,74 @@ string value1 = "5";
 string value2 = "7";
 int result = Convert.ToInt32(value1) * Convert.ToInt32(value2);
 Console.WriteLine(result);
-*/
 
 int value = (int)1.23456789m;
 Console.WriteLine(value);
 
 int value2 = Convert.ToInt32(1.5m);
 Console.WriteLine(value2);
+
+
+
+// TryParse() method
+
+string name = "Bob";
+Console.WriteLine(int.Parse(name));
+
+//-> System.FormatException: 'Input string was not in a correct format.'
+
+// TryParse() a string into an int
+
+string value = "102";
+int result = 0;
+if (int.TryParse(value, out result)){
+    Console.WriteLine($"Measurement: {result}");
+}else{
+    Console.WriteLine("Unable to report the measurement.");
+}
+Console.WriteLine($"Measurement (w/ offset): {50 + result}");
+
+//-> Measurement: 102
+//-> Measurement (w/ offset): 152
+
+
+// Complete a challenge to combine string
+// array values as strings and as integers
+
+string[] values = {"12.3", "45", "ABC", "11", "DEF"};
+decimal total = 0m;
+string message = "";
+
+foreach(var value in values)
+{
+    decimal num;
+    if(decimal.TryParse(value, out num)){
+        total += num;
+    }else{
+        message += value;
+    }
+}
+Console.WriteLine($"Message: {message}");
+Console.WriteLine($"Total: {total}");
+
+//-> Message: ABCDEF
+//-> Total: 68.3
+
+*/
+
+//Complete a challenge to output math operations as specific number types
+
+int value1 = 12;
+decimal value2 = 6.2m;
+float value3 = 4.3f;
+
+int result1 = value1 / (int)value2;
+int result1 = Convert.ToInt32((decimal)value1 / value2);
+Console.WriteLine($"Divide value1 by value2, display the result as an int: {result1}");
+
+decimal result2 = value2 / (decimal)value3;
+Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {result2}");
+
+float result3 = value3 / (float)value1;
+float result3 = value3 / value1;
+Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
