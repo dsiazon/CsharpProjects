@@ -17,7 +17,6 @@ C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProjec
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
-C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.AssemblyReference.cache
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
