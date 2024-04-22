@@ -1,4 +1,4 @@
-﻿/*
+﻿
 Console.WriteLine("Signed integral types:");
 
 Console.WriteLine($"sbyte : {sbyte.MinValue} to {sbyte.MaxValue}");

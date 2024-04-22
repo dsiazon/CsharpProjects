@@ -1,5 +1,5 @@
 ﻿// dotnet new console -o ./HelperMethods
-/*
+
 // Create an array of pallets, then sort them
 
 string[] pallets = { "B14", "A11", "B12", "A13"  };
@@ -130,4 +130,4 @@ foreach(var order in orders){
         Console.WriteLine(order);
     }
 }
-*/
+

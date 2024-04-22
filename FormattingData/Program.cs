@@ -1,6 +1,5 @@
 ﻿// Composite Formatting uses numbered placeholders within a string. At run time, everything inside the braces is resolved to a value that is also passed in based on their position.
 
-/*
 string first = "Hello";
 string second = "World";
 string result = string.Format("{1} {0}!", first, second);
@@ -78,7 +77,7 @@ formattedLine += paymnetAmount.PadLeft(10);
 
 Console.WriteLine("1234567890123456789012345678901234567890");
 Console.WriteLine(formattedLine);
-*/
+
 
 // Exercise - Complete a challenge to apply string interpolation to a form letter
 
@@ -130,3 +129,4 @@ comparisonMessage += string.Format("{0:P2}   {1:C}", newReturn, newProfit);
 
 Console.WriteLine(comparisonMessage);
 
+// dotnet new console -o ./ProjectName
