@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\bin\Debug\net7.0\FormattingData.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\bin\Debug\net7.0\FormattingData.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\bin\Debug\net7.0\FormattingData.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\bin\Debug\net7.0\FormattingData.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\bin\Debug\net7.0\FormattingData.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\refint\FormattingData.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\ref\FormattingData.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\FormattingData\obj\Debug\net7.0\FormattingData.sourcelink.json
