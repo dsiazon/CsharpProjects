@@ -146,3 +146,5 @@ output = $"Output: {output}";
 
 Console.WriteLine(quantity);
 Console.WriteLine(output);
+
+// dotnet new console -o ./ProjectName

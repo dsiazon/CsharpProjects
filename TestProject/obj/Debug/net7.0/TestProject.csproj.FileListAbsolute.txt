@@ -26,3 +26,4 @@ C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProjec
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
 C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.sourcelink.json
