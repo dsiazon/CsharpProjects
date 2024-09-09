@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.sourcelink.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\refint\MethodsWithParameters.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithParameters\obj\Debug\net8.0\ref\MethodsWithParameters.dll
