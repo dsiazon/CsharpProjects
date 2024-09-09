@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\bin\Debug\net8.0\ModifyStrings.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\bin\Debug\net8.0\ModifyStrings.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\bin\Debug\net8.0\ModifyStrings.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\bin\Debug\net8.0\ModifyStrings.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\bin\Debug\net8.0\ModifyStrings.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.sourcelink.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\refint\ModifyStrings.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ModifyStrings.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\ModifyStrings\obj\Debug\net8.0\ref\ModifyStrings.dll

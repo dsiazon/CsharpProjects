@@ -1,0 +1,18 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD:TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = TestProject
+build_property.ProjectDir = C:\Users\dssia\Desktop\Work\AZ104\VSC\CsharpProjects\TestProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+build_property.RootNamespace = DataTypes
+build_property.ProjectDir = C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\DataTypes\
+>>>>>>> 26d81867e4ca25f909ba5c7170110d1b7c1d8c2b:Work with Data Variables/DataTypes/obj/Debug/net7.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig

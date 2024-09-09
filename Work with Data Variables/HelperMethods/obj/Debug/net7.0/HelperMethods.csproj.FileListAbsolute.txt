@@ -1,0 +1,14 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\refint\HelperMethods.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\HelperMethods\obj\Debug\net7.0\ref\HelperMethods.dll
