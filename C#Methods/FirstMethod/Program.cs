@@ -1,5 +1,4 @@
-﻿/*
-Console.WriteLine("Input!");
+﻿Console.WriteLine("Input!");
 
 int[] a = {1,2,3,4,5};
 
@@ -26,9 +25,9 @@ void SayHello()
 
 void ShowData(string a, int b, int c);
 void DisplayDate(string month, int day, int year);
-*/
+
 // First method
-/*
+
 Console.WriteLine("Generating random numbers:");
 DisplayRandomNumbers();
 
@@ -170,7 +169,6 @@ void ValidateRange()
     validRange = true;
 }
 
-*/
 
 Random random = new Random();
 int luck = random.Next(100);
