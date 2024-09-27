@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\bin\Debug\net8.0\MethodsWithReturnValues.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\bin\Debug\net8.0\MethodsWithReturnValues.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\bin\Debug\net8.0\MethodsWithReturnValues.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\bin\Debug\net8.0\MethodsWithReturnValues.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\bin\Debug\net8.0\MethodsWithReturnValues.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.sourcelink.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\refint\MethodsWithReturnValues.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\MethodsWithReturnValues.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\MethodsWithReturnValues\obj\Debug\net8.0\ref\MethodsWithReturnValues.dll
