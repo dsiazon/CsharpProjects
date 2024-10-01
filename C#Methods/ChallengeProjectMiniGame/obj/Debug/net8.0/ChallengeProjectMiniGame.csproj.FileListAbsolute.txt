@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\bin\Debug\net8.0\ChallengeProjectMiniGame.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\bin\Debug\net8.0\ChallengeProjectMiniGame.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\bin\Debug\net8.0\ChallengeProjectMiniGame.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\bin\Debug\net8.0\ChallengeProjectMiniGame.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\bin\Debug\net8.0\ChallengeProjectMiniGame.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.sourcelink.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\refint\ChallengeProjectMiniGame.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ChallengeProjectMiniGame.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\ChallengeProjectMiniGame\obj\Debug\net8.0\ref\ChallengeProjectMiniGame.dll
