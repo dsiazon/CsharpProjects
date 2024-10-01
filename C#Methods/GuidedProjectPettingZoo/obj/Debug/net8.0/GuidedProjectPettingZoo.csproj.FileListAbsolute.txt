@@ -1,0 +1,15 @@
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\bin\Debug\net8.0\GuidedProjectPettingZoo.exe
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\bin\Debug\net8.0\GuidedProjectPettingZoo.deps.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\bin\Debug\net8.0\GuidedProjectPettingZoo.runtimeconfig.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\bin\Debug\net8.0\GuidedProjectPettingZoo.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\bin\Debug\net8.0\GuidedProjectPettingZoo.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.AssemblyInfoInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.AssemblyInfo.cs
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.csproj.CoreCompileInputs.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.sourcelink.json
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\refint\GuidedProjectPettingZoo.dll
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.pdb
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\GuidedProjectPettingZoo.genruntimeconfig.cache
+C:\Users\dssia\Desktop\Danielle\Courses\VSC\C#Projects\CsharpProjects\C#Methods\GuidedProjectPettingZoo\obj\Debug\net8.0\ref\GuidedProjectPettingZoo.dll
